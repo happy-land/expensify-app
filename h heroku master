@@ -1,0 +1,41 @@
+[33mcommit d447c92caaec72d19dd373faffcf67067ee1ddee[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ruslan Kulish <ruslan.s.kulish@gmail.com>
+Date:   Mon Nov 18 23:01:05 2019 +0300
+
+    Setup production build and server
+
+[33mcommit eb1131114a60f25cc1abd89a7f6914f592f6b893[m
+Author: Ruslan Kulish <ruslan.s.kulish@gmail.com>
+Date:   Mon Nov 18 22:04:22 2019 +0300
+
+    Setup devDependencies and dist folder
+
+[33mcommit 476d55adefd0058afe44c9fc4cbcd0bcdbbcc7b4[m
+Author: Ruslan Kulish <ruslan.s.kulish@gmail.com>
+Date:   Sun Nov 17 21:13:13 2019 +0300
+
+    Setup devDependencies and dit folder
+
+[33mcommit d9c165bf6a3e29850a21c0bf94f47077659bed25[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Ruslan Kulish <ruslan.s.kulish@gmail.com>
+Date:   Sun Nov 10 22:02:53 2019 +0300
+
+    Setup production build and server
+
+[33mcommit 9f9c6e44fbd9783721d53e150b90150e600b80fc[m
+Author: Ruslan Kulish <ruslan.s.kulish@gmail.com>
+Date:   Sat Nov 9 22:54:56 2019 +0300
+
+    Setup production webpack build
+
+[33mcommit bd97dd7c64e47f859df851e376af9fcd660701e8[m
+Author: Ruslan Kulish <ruslan.s.kulish@gmail.com>
+Date:   Sun Oct 27 22:11:45 2019 +0300
+
+    Remove dummy expense data
+
+[33mcommit 6cad49f3d51d82677965fab32551d24aaacd938e[m
+Author: Ruslan Kulish <ruslan.s.kulish@gmail.com>
+Date:   Sun Oct 27 22:07:04 2019 +0300
+
+    Initial commit
